@@ -1,0 +1,5 @@
+Sweety,21,A,Madurai
+Sara,23,C,Theni
+Vaishnavi,23,A,Madurai
+Hema,21,C,Salam
+Vishu,21,A,Maduari
